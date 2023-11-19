@@ -1,0 +1,410 @@
+#object[GoogleAuthProvider]
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:1:2
+;  Use of undeclared Var re-frame-with-firebase.firebase.init/google-sign-in
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:1:2
+;  Use of undeclared Var re-frame-with-firebase.firebase.init/google-sign-in
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#'re-frame-with-firebase.firebase.init/google-sign-in
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; Cannot read properties of undefined (reading 'init')
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#'re-frame-with-firebase.firebase.init/init
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#'re-frame-with-firebase.firebase.init/google-sign-in
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+initalise firebase
+#object[FirebaseAppImpl [object Object]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+:repl/exception!
+; 
+; Execution error (FirebaseError) at (<cljs repl>:1).
+; Firebase: No Firebase App '[DEFAULT]' has been created - call initializeApp() first (app/no-app).
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+initalise firebase
+#object[FirebaseAppImpl [object Object]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:11:6
+;  Use of undeclared Var re-frame-with-firebase.firebase.init/onAuthStateChanged
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:11:6
+;  Use of undeclared Var re-frame-with-firebase.firebase.init/onAuthStateChanged
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; Cannot read properties of undefined (reading 'init')
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+initalise firebase
+#object[Function]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (289 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+; [line 4, col 33] Invalid keyword: ::events/set-user.
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:12:38
+;  Use of undeclared Var re-frame-with-firebase.firebase.init/store-user
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+; [line 4, col 33] Invalid keyword: ::events/set-user.
+; 
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (290 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (290 files, 1 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+cljs꞉re-frame-with-firebase.core꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; Cannot read properties of undefined (reading 'call')
+cljs꞉re-frame-with-firebase.core꞉> 
+#'re-frame-with-firebase.firebase.init/init
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#'re-frame-with-firebase.firebase.init/store-user
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+initalise firebase
+#object[Function]
+cljs꞉re-frame-with-firebase.core꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.core꞉> 
+; [:app] Build completed. (290 files, 1 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.core꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.core꞉> 
+; [:app] Build completed. (290 files, 1 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.core꞉> 
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+nil
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (290 files, 1 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (290 files, 1 compiled, 0 warnings, 0,11s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#'re-frame-with-firebase.core/init
+cljs꞉re-frame-with-firebase.core꞉> 
+#object[FirebaseAppImpl [object Object]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#object[Function]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+; Cannot read properties of undefined (reading 'call')
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; Jacking in...
+; Connecting using "shadow-cljs" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+; Starting Jack-in Terminal: pushd /home/dan/Projects/onthecodeagain/re-frame-with-firebase ; npx shadow-cljs -d cider/cider-nrepl:0.28.5 watch :app ; popd
+; nREPL Connection was closed
+; Using host:port localhost:8777 ...
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉shadow.user꞉> 
+clj꞉shadow.user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: shadow-cljs...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs, repl: :app
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.cljs'
+nil
+cljs꞉cljs.user꞉> 
+; Jack-in done.
+cljs꞉cljs.user꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,16s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+[:re-frame-with-firebase.subs/name]
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,15s)
+cljs꞉re-frame-with-firebase.views꞉> 
+#object[Promise [object Promise]]
+cljs꞉re-frame-with-firebase.firebase.init꞉> 
+#'re-frame-with-firebase.views/main-panel
+cljs꞉re-frame-with-firebase.views꞉> 
+#object[reagent.ratom.Reaction {:val {:uid "fxwlgGdpt4NFIeVUoT3sA4Cv5103", :name "Daniel Amber"}}]
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,16s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,15s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:1:2
+;  Use of undeclared Var re-frame-with-firebase.views/user
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.views꞉> 
+#object[reagent.ratom.Reaction {:val {:uid "fxwlgGdpt4NFIeVUoT3sA4Cv5103", :name "Daniel Amber"}}]
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,16s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,11s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 3 compiled, 0 warnings, 0,16s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build failure:
+; ------ ERROR -------------------------------------------------------------------
+;  File: /home/dan/Projects/onthecodeagain/re-frame-with-firebase/src/re_frame_with_firebase/views.cljs:9:74
+; --------------------------------------------------------------------------------
+;    6 | (defn main-panel []
+;    7 |   (let [name (re-frame/subscribe [::subs/name])
+;    8 |         user (re-frame/subscribe [::subs/user]
+;    9 |                                  user (re-frame/subscribe [::subs/user])]
+; --------------------------------------------------------------------------------^
+; re_frame_with_firebase/views.cljs [line 9, col 74] Unmatched delimiter ].
+; 
+; --------------------------------------------------------------------------------
+;   10 |     [:div
+;   11 |      [:h1
+;   12 |       "Hello from " @name]
+;   13 |      (when @user
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 1 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,14s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,15s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 1 warnings, 0,16s)
+; 
+; ------ WARNING #1 - :undeclared-var --------------------------------------------
+;  File: /home/dan/Projects/onthecodeagain/re-frame-with-firebase/src/re_frame_with_firebase/views.cljs:18:31
+; --------------------------------------------------------------------------------
+;   15 |      (when @user
+;   16 |        [:div
+;   17 |         [:div "The logged in user is" @user]
+;   18 |         [:button {:on-click #(sign-out)}  "Log out"]])]))
+; -------------------------------------^------------------------------------------
+;  Use of undeclared Var re-frame-with-firebase.views/sign-out
+; --------------------------------------------------------------------------------
+;   19 | 
+; --------------------------------------------------------------------------------
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,12s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+; [:app] Build failure:
+; ------ ERROR -------------------------------------------------------------------
+;  File: /home/dan/Projects/onthecodeagain/re-frame-with-firebase/src/re_frame_with_firebase/views.cljs:23:10
+; --------------------------------------------------------------------------------
+;   20 |        [:div
+;   21 |         [:div "You are not logged in"]
+;   22 |         [:button {:on-click #(sign-out)}  "Log out"]]
+;   23 |         ])]))
+; ----------------^---------------------------------------------------------------
+; re_frame_with_firebase/views.cljs [line 23, col 10] Unmatched delimiter ].
+; 
+; --------------------------------------------------------------------------------
+;   24 | 
+; --------------------------------------------------------------------------------
+; 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 1 compiled, 0 warnings, 0,11s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,15s)
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Compiling ...
+cljs꞉re-frame-with-firebase.views꞉> 
+; [:app] Build completed. (298 files, 2 compiled, 0 warnings, 0,13s)
+cljs꞉re-frame-with-firebase.views꞉> 
